@@ -4,16 +4,22 @@ Website statis multi-halaman untuk PT WIRA TELCO NETWORK INDONESIA.
 
 ## Halaman
 - `index.html` — Beranda
-- `tentang-kami.html` — Tentang Kami
+- `tentang-kami.html` — Profil, visi, dan misi
 - `layanan.html` — Layanan
-- `kontak.html` — Kontak
-- `assets/` — CSS, JavaScript, logo, dan ilustrasi SVG
+- `portofolio.html` — Galeri ilustrasi layanan
+- `kontak.html` — Kontak perusahaan
+- `assets/` — CSS, JavaScript, logo, favicon, dan ilustrasi SVG original
 
-## Kontak yang sudah dimasukkan
-- WhatsApp: 0822-8339-2836
+## Informasi perusahaan
+- Wilayah layanan: Kepulauan Riau
 - Alamat: Jalan Parit Alai Nomor 7, Kabupaten Karimun, Kepulauan Riau, Indonesia
+- WhatsApp: 0856-6860-7325
+- Telepon: 0822-8339-2836
+- Email: wiratelconetworkindonesia@gmail.com
+- Jam operasional: Setiap hari, 08.00–17.00 WIB
 
-Email resmi belum ditampilkan karena belum dikonfirmasi.
+## Catatan portofolio
+Gambar pada halaman Portofolio merupakan ilustrasi SVG original, bukan dokumentasi proyek aktual.
 
 ## Deploy
 Repository: `wiratelconetworkindonesia.github.io`
