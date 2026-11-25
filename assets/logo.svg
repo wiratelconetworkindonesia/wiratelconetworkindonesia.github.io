@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 52" role="img" aria-label="WIRATEL">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#27d7f2"/><stop offset="1" stop-color="#4d8dff"/></linearGradient></defs>
+<g fill="none" stroke="url(#g)" stroke-width="3.2" stroke-linecap="round"><path d="M5 13v26M5 13l10 26 10-26 10 26 10-26"/><path d="M48 13v26M48 13h18M48 26h15M48 39h18"/></g>
+<text x="76" y="34" font-family="Arial,sans-serif" font-size="27" font-weight="800" letter-spacing="1.5" fill="#f4f8ff">WIRATEL</text>
+<circle cx="207" cy="14" r="3" fill="#27d7f2"/>
+</svg>
